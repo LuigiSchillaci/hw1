@@ -1,6 +1,6 @@
 CREATE DATABASE phonemania;
 
-use DATABASE phonemania;
+use  phonemania;
 
 CREATE TABLE login (
   nome varchar(15) NOT NULL,
